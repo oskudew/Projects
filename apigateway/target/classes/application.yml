@@ -1,0 +1,23 @@
+server:
+  port: 9901
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://localhost:9005/eureka
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: Userms
+          uri: lb://Userms
+          predicates:
+            - Path=/user/**
+        - id: Contactms
+          uri: lb://Contactms
+          predicates:
+            - Path=/contact/**
