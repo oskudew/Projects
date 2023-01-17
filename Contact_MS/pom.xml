@@ -14,8 +14,10 @@
 	<name>Contact_MS</name>
 	<description>This is a Contact microservice </description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.5</spring-cloud.version>
+<!--		<maven.compiler.source>8</maven.compiler.source>-->
+<!--		<maven.compiler.target>8</maven.compiler.target>-->
 	</properties>
 	<dependencies>
 		<dependency>
