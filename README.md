@@ -17,3 +17,7 @@ name- Contactms
 port no-9901
 name - api-gateway
 
+# for Dashboard
+port no-9011
+name - dashboard
+
