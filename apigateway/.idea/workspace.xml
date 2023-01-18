@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6011569-dfbf-4c32-88ea-09f50ef4f27d" name="Changes" comment="added hysterix">
-      <change afterPath="$PROJECT_DIR$/../User_MS/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../User_MS/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../User_MS/User_MS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apigateway.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/apigateway/ApigatewayApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/apigateway/ApigatewayApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/apigateway/ApigatewayApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/apigateway/ApigatewayApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hysterixdashboard/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User_MS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../User_MS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hysterixdashboard/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hysterixdashboard/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hysterixdashboard/src/main/java/com/hysdashborad/hysterixdashboard/HysterixdashboardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hysterixdashboard/src/main/java/com/hysdashborad/hysterixdashboard/HysterixdashboardApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +102,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673941645650</updated>
       <workItem from="1673941647400" duration="8623000" />
-      <workItem from="1674036575381" duration="335000" />
+      <workItem from="1674036575381" duration="1704000" />
+      <workItem from="1674062961548" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="added hysterix">
       <created>1673950882767</created>

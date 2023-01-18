@@ -8,27 +8,16 @@
 		<version>2.7.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hysdashborad</groupId>
-	<artifactId>hysterixdashboard</artifactId>
+	<groupId>com.hysdashboard</groupId>
+	<artifactId>dashboard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hysterixdashboard</name>
-	<description>This is a microservice of hysterix_dashboard</description>
+	<name>dashboard</name>
+	<description>This microservice is used for hystrix dashboard</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>2021.0.5</spring-cloud.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-hystrix-dashboard -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-netflix-hystrix-dashboard</artifactId>
-			<version>2.2.10.RELEASE</version>
-		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
