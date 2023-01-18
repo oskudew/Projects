@@ -4,9 +4,11 @@ server:
 eureka:
   instance:
     hostname: localhost
+
   client:
     service-url:
       defaultZone: http://localhost:9005/eureka
+
 spring:
   application:
     name: api-gateway
