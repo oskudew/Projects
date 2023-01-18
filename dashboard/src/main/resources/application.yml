@@ -1,0 +1,19 @@
+server:
+  port: 9011
+
+spring:
+  application:
+    name: dashboard
+
+eureka:
+  instance:
+    hostname: localhost
+
+  client:
+    service-url:
+      defaultZone: http://localhost:9005/eureka
+
+
+hystrix:
+  dashboard:
+    proxy-stream-allow-list: "*"
